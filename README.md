@@ -1,5 +1,7 @@
 # IBM Deep Learning Professional Certificate Capstone Project
 
+<!-- Imagem Hero: Placeholder devido a falha na geração. Uma imagem profissional e atraente que represente o projeto de deep learning, com elementos de redes neurais, inteligência artificial, TensorFlow e PyTorch, estilo moderno, cores azuis e roxas, seria inserida aqui. -->
+
 *[English version below / Versão em inglês abaixo]*
 
 ## 🇧🇷 Português
